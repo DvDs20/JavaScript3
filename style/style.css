@@ -1,0 +1,24 @@
+#tableFirstRow {
+    text-align: right;
+    margin-right: 100px;
+}
+#greeting {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+#sign, #totalTiles, #subtotal, #shipping, #grandTotal {
+    text-align: left;
+}
+th {
+    padding-right: 20px;
+}
+button {
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 15px;
+    background-color: crimson;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
